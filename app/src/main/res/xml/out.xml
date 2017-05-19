@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="t2c">
+		<framerect top="0" left="0" bottom="75" right="100" delayNextFrame="2" />
+		<framerect top="0" left="100" bottom="75" right="200" delayNextFrame="2" />
+		<framerect top="0" left="200" bottom="75" right="300" delayNextFrame="2" />
+		<framerect top="0" left="300" bottom="75" right="400" delayNextFrame="2" />
+		<framerect top="0" left="400" bottom="75" right="500" delayNextFrame="2" />
+		<framerect top="0" left="500" bottom="75" right="600" delayNextFrame="2" />
+
+	</animation>
+	<animation name="c2m">
+		<framerect top="0" left="500" bottom="75" right="600" delayNextFrame="2" />
+		<framerect top="0" left="600" bottom="75" right="700" delayNextFrame="2" />
+		<framerect top="0" left="700" bottom="75" right="800" delayNextFrame="2" />
+		<framerect top="0" left="800" bottom="75" right="900" delayNextFrame="2" />
+		<framerect top="0" left="900" bottom="75" right="1000" delayNextFrame="2" />
+		<framerect top="0" left="1000" bottom="75" right="1100" delayNextFrame="2" />
+	</animation>
+	<animation name="m2t">
+		<framerect top="0" left="1000" bottom="75" right="1100" delayNextFrame="2" />
+		<framerect top="0" left="1100" bottom="75" right="1200" delayNextFrame="2" />
+		<framerect top="0" left="1200" bottom="75" right="1300" delayNextFrame="2" />
+		<framerect top="0" left="1300" bottom="75" right="1400" delayNextFrame="2" />
+		<framerect top="0" left="1400" bottom="75" right="1500" delayNextFrame="2" />
+		<framerect top="0" left="0" bottom="75" right="100" delayNextFrame="2" />
+	</animation>
+</animations>
